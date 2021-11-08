@@ -1,0 +1,2 @@
+# file-upload-bypass
+this is a little project i did when i where borred in school it is simple to use just install the needed packages (easygui, discord, asyncio, anonfile) and after that start the programm input your discord token and and press enter after that you can type !file in any channel u have persmissions to send links inside and it will upload the choosen file to anonfiles and sends the link into the channel
